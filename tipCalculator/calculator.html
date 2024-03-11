@@ -7,7 +7,20 @@
     <link rel="stylesheet" href="./calculator.css">
 </head>
 <body>
-  
+  <div class="container">
+    <h1 id="heading">Tip Calculator</h1>
+    <p class="text">Enter the bill amount and tip percentage to calculate the total</p>
+    <p class="text" >Bill amount:</p>
+    <input type="number" class="input"  id="text1" autocomplete="off">
+    <p class="text" >Tip Percentage:</p>
+    <input type="number" class="input" id="text2" autocomplete="off"><br>
+    <button id="btn">Calculate</button>
+    <div id="result">
+        <p id="total1">Total:</p>
+        <span id="dolar">$</span>
+        <h4 id="total2"></h4>
+    </div>
+  </div>
     <script src="./calculator.js">
 
     </script>
