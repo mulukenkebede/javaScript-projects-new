@@ -1,0 +1,37 @@
+[
+    {
+        "name": "muluken",
+        "id": 12,
+        "department": "water",
+        "level": 2
+
+    },
+    {
+        "name": "esmiel",
+        "id": 13,
+        "department": "water",
+        "level": 3
+
+    },
+    {
+        "name": "merawi",
+        "id": 14,
+        "department": "water",
+        "level": 4
+
+    },
+    {
+        "name": "rabia",
+        "id": 15,
+        "department": "water",
+        "level": 2
+
+    },
+    {
+        "name": "meseret",
+        "id": 16,
+        "department": "water",
+        "level": 5
+
+    }
+]
