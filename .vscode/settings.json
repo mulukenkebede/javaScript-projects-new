@@ -1,0 +1,16 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "javaScript-projects-new\\ageCalculator\\",
+            "color": "foldercolorizer.PureGold"
+        },
+        {
+            "folderPath": "javaScript-projects-new\\recipeApi\\",
+            "color": "foldercolorizer.LightSalmon"
+        },
+        {
+            "folderPath": "javaScript-projects-new\\tipCalculator\\",
+            "color": "foldercolorizer.GrayishSilver"
+        }
+    ]
+}
